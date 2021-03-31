@@ -8,6 +8,7 @@
 - 365-grass is a daily upload of anything related to coding to github. 
 - I set this as my goal for the year 2021.
 - Upload anything related to coding, access Git Hub once a day
+- I have been working on this project since Jan 19th.
 <!---
 zole77/zole77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
