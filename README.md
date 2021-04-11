@@ -2,6 +2,7 @@
 - 👀 I’m interested in graduation
 - 🌱 I’m currently learning andorid with java
 - 🌈 I'm working on a 365-grass project.
+- I'm develop application about coivd-19
 
 
 # What is the 365-grass project?
