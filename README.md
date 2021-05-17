@@ -2,7 +2,10 @@
 - 👀 I’m interested in graduation
 - 🌱 I’m currently learning andorid with java
 - 🌈 I'm working on a 365-grass project.
-- I'm develop application about coivd-19
+- An application for COIVD-19 is being developed as a graduation work.
+- The name of the app is Corona Allimi
+- I will be moving my graduation Android project into my project and working on both the front end and the back end.
+
 
 
 # What is the 365-grass project?
