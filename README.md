@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @zole77
+- 👋 Hi, I’m @zole77 Park Beom Su
+- :books: I am a 4th year student at Changwon National University.
+- :computer: I majored in computer engineering.
 - 👀 I’m interested in graduation
 - 🌱 I’m currently learning andorid with java
 - 🌈 I'm working on a 365-grass project.
-- An application for COIVD-19 is being developed as a graduation work.
+- :mask: An application for COIVD-19 is being developed as a graduation work.
 - The name of the app is Corona Allimi
 - I will be moving my graduation Android project into my project and working on both the front end and the back end.
 
