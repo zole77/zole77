@@ -1,1 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T01:00:30.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.2.6" etag="13CTZIFAKCxqbC9daTul" type="github"><diagram id="sPqnnub4Wf-1EYm7b2aV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-27T01:09:25.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="_T4xYKjgIrNBumOWIidG" version="16.2.6" type="github">
+  <diagram id="sPqnnub4Wf-1EYm7b2aV" name="Page-1">
+    <mxGraphModel dx="923" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5ERpXEpibxJNc4OYAjKx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="5ERpXEpibxJNc4OYAjKx-1" target="5ERpXEpibxJNc4OYAjKx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ERpXEpibxJNc4OYAjKx-1" value="&lt;b&gt;제출 현황 확인 &lt;br&gt;페이지&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ERpXEpibxJNc4OYAjKx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="5ERpXEpibxJNc4OYAjKx-3" target="5ERpXEpibxJNc4OYAjKx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ERpXEpibxJNc4OYAjKx-3" value="수업 선택" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ERpXEpibxJNc4OYAjKx-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="5ERpXEpibxJNc4OYAjKx-9" target="5ERpXEpibxJNc4OYAjKx-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ERpXEpibxJNc4OYAjKx-9" value="과제 선택" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ERpXEpibxJNc4OYAjKx-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" target="5ERpXEpibxJNc4OYAjKx-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ERpXEpibxJNc4OYAjKx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="5ERpXEpibxJNc4OYAjKx-15" target="5ERpXEpibxJNc4OYAjKx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ERpXEpibxJNc4OYAjKx-15" value="과제 확인 버튼" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ERpXEpibxJNc4OYAjKx-17" value="확인 버튼" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ERpXEpibxJNc4OYAjKx-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" target="5ERpXEpibxJNc4OYAjKx-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="530" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5ERpXEpibxJNc4OYAjKx-21" value="&lt;b&gt;과제 확인 완료&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="620" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ERpXEpibxJNc4OYAjKx-23" value="학생 명단" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ERpXEpibxJNc4OYAjKx-25" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;b&gt;시나리오 1&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;교사인 혜진이는 자작타운으로 학생들에게 과제를 내고 효율적으로 관리하고 싶다.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="95" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ERpXEpibxJNc4OYAjKx-26" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;b&gt;시나리오 2&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;혜진이는 누가 과제를 제출하고, 누가 제출하지 않았는지 확인하고 싶다.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="375" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ERpXEpibxJNc4OYAjKx-27" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;b&gt;시나리오 3&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;혜진이는 학생들의 과제 내용을 확인하고 싶다.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="515" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
